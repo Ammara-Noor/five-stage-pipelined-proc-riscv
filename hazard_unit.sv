@@ -77,7 +77,5 @@ module hazard_unit (
     // control hazards flushing
     assign flush_id = br_taken;
     assign flush_ex = (stall_lw | br_taken);
-
-    
     
 endmodule

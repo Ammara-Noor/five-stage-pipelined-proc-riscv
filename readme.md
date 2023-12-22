@@ -38,4 +38,5 @@ gtkwave dumfile_name.vcd
 
 This opens a waveform window. Pull the required signals in the waveform and verify the behaviour of the design.
 
-
+## Design Diagram
+![Design Diagram](./design%20diagram.png)
